@@ -31,7 +31,7 @@ index:
   excerpt_link: Read More    
 
 #### 作者信息
-author:
+author:wing
   name: ## 作者名
   intro_line1:  "Hello ,I'm Larry Page in Google."    ## 网站底部的个人介绍
   intro_line2:  "This is my blog,believe it or not."  
@@ -42,7 +42,7 @@ author:
   zhihu:  
   email:     
   twitter:   
-  github:     
+  github:  https://github.com/jingjing2github/jekyllwing
   facebook: 
   linkedin:   
   google_plus:   
